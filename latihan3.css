@@ -1,0 +1,31 @@
+body{
+	background-color: #f4f4f4;
+}
+.Header{
+	background-color: #ea3b16;
+	padding: 2px 10px;
+	width: 784px;
+	height: 200px;
+}
+.Size{
+	height:450px;
+	width: 784px;
+}
+.Size .Sidebar{
+	background-color: #fff;
+	float: left;
+	height: auto;
+	width: 200px;
+}
+.Size .Content{
+	background-color: #f1f1f1;
+	float: left;
+	height: auto;
+	width: 584px;
+}
+.Footer{
+	background-color: #DDD;
+	padding: 10px;
+	width: 784px;
+	height: 100px;
+}
