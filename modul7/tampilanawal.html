@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tugas Modul 7</title>
+</head>
+<body>
+	<h2>Data Mahasiswa</h2>
+	<p style="margin-top: -20px;">================================</p>
+    <h2 style="margin-top: -20PX;">TAMBAH DATA</h2>
+    <form action="prosesSimpan.php" method="POST">
+        NRP    : <input type="text" name="nrp"><br>
+        Nama   : <input type="text" name="nama"><br>
+        Alamat : <textarea name="alamat"></textarea><br>
+        Jurusan : <select name="jurusan">
+                    <option value="Teknik Geofisika">Teknik Geofisika</option>
+                    <option value="Teknik Informatika">Teknik Informatika</option>
+                    <option value="Teknik Fisika">Teknik Fisika</option>
+                    <option value="Teknik Telekomunikasi">Teknik Telekomunikasi</option>
+                 </select>
+        <br><br>
+        <input type="submit" value="Simpan">
+        <input type="reset" value="Reset"><br>
+    </form>
+        <p style="margin-top: 0px;">================================</p>
+        <h2 style="margin-top: -10px;">SEARCH DATA</h2>
+    <form action="prosesCari.php" method="POST">
+        Nama : <input type="text" name="cari">
+        <input type="submit" value="Cari Data">
+        <p style="margin-top: 0px;">================================</p>
+    </form>
+    <h2 style="margin-top: -10px;">HAPUS DATA</h2>
+    <form action="prosesDelete.php" method="POST">
+        NRP : <input type="text" name="hapus">
+        <input type="submit" value="hapus">
+    </form>
+</body>
+</html>
