@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datadiri>
+	<nama>
+		<awal>Satrio</awal>
+		<tengah>Kunto</tengah>
+		<akhir>Birowo</akhir>
+	</nama>
+
+	<saudara>
+		<awal>Niken</awal>
+		<akhir>Larasaty</akhir>
+	</saudara>
+
+	<orangtua>
+		<awal>Sri</awal>
+		<akhir>Maryati</akhir>
+	</orangtua>
+
+	<hobby>Futsal,Nonton Netflix</hobby>
+
+
+	<jenisKelamin>Laki-Laki</jenisKelamin>
+
+	<alamat>
+		<desa>Sukarame</desa>
+		<kecamatan>Sukarame</kecamatan>
+		<kabupaten>Bandar Lampung</kabupaten>
+	</alamat>
+	<socialMedia>
+			<Instagram>Sakubiii</Instagram>
+			<Twitter>Sakubiii</Twitter>
+	</socialMedia>
+</datadiri>
+
+

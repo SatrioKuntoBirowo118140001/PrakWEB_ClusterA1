@@ -1,0 +1,14 @@
+{
+	"datadiri" :{
+		"name" 			: "Satrio Kunto Birowo",
+		"Saudara"		: "Niken Larasaty",
+		"Orang Tua"		: "Sri Maryati",
+		"Hobby"			: ["Futsal", "Nonton Netflix"]
+		"JenisKelamin"  : "Laki-Laki",
+		"Alamat"		: "Sukarame Bandar Lampung",
+		"SocialMedia" 	:{
+			"Instgram" 	: "Sakubiii",
+			"Twitter" 	: "Sakubiii"
+		}
+	}
+}
